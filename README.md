@@ -6,7 +6,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 ---
 
-## Oque deverá ser deenvolvido
+## Oque deverá ser desenvolvido
 
 Você vai ... [Descricão | Overview do que sera feito no projeto]
 
