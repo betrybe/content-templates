@@ -76,7 +76,7 @@ Você vai ... [Descricão | Overview do que sera feito no projeto]
   * Clique no botão verde _"Create pull request"_
   * Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_
   * **Não se preocupe em preencher mais nada por enquanto!**
-  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-block7-project-daily-prophet/pulls) e confira que o seu _Pull Request_ está criado
+  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-blockx-[project-name]/pulls) e confira que o seu _Pull Request_ está criado
 
 ---
 
