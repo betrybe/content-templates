@@ -70,7 +70,7 @@ Você vai ... [Descricão | Overview do que sera feito no projeto]
   * Usando o exemplo anterior: `git push -u origin joaozinho-project-name`
 
 6. Crie um novo `Pull Request` _(PR)_
-  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-block7-project-daily-prophet/pulls)
+  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-blockx-[project-name]/pulls)
   * Clique no botão verde _"New pull request"_
   * Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   * Clique no botão verde _"Create pull request"_
