@@ -4,32 +4,6 @@ Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora
 
 Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma _branch_ específica e um _Pull Request_ para colocar seus códigos.
 
----
-
-## Oque deverá ser desenvolvido
-
-Você vai ... [Descricão | Overview do que sera feito no projeto]
-
-## Desenvolvimento
-
-[Caso necessario introdução de por onde estudante deve começar]
-
-## Requisitos do projeto
-
-### n - [Requisito]
-        [**Descrição do que deve feito ou pontos importantes de foco**]
-
-### n + 1 - [Requisito]
-            [**Descrição do que deve feito ou pontos importantes de foco**]
-
-### n + 2 - [Requisito]
-            [**Descrição do que deve feito ou pontos importantes de foco**]
-
-### n + n - [Requisito]
-            [**Descrição do que deve feito ou pontos importantes de foco**]
-
-## Bônus
-[Caso exista um requisito bônus inserir aqui na mesma estrutura]
 
 ---
 
@@ -79,6 +53,46 @@ Você vai ... [Descricão | Overview do que sera feito no projeto]
   * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-blockx-[project-name]/pulls) e confira que o seu _Pull Request_ está criado
 
 ---
+
+# Entregáveis
+
+Para entregar o seu projeto você deverá criar um Pull Request neste repositório. Este Pull Request deverá conter os arquivos `[Arquivos obrigatórios para concluri entrega]`, que conterão seu código `[Exemplo: HTML, CSS e JavaScript]`, respectivamente. Você pode adicionar outros arquivos se julgar necessário. ⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️
+
+Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a monitoria. Lembre-se que você pode consultar nosso conteúdo sobre Git & GitHub sempre que quiser!
+
+---
+
+### Data de Entrega
+
+O projeto tem até a seguinte data: `DD/MM/YYYY - 14:00h`. Para ser entregue a avaliação final.
+
+
+## Oque deverá ser desenvolvido
+
+Você vai ... [Descricão | Overview do que sera feito no projeto]
+
+## Desenvolvimento
+
+[Caso necessario introdução de por onde estudante deve começar]
+
+## Requisitos do projeto
+
+### n - [Requisito]
+        [**Descrição do que deve feito ou pontos importantes de foco**]
+
+### n + 1 - [Requisito]
+            [**Descrição do que deve feito ou pontos importantes de foco**]
+
+### n + 2 - [Requisito]
+            [**Descrição do que deve feito ou pontos importantes de foco**]
+
+### n + n - [Requisito]
+            [**Descrição do que deve feito ou pontos importantes de foco**]
+
+## Bônus
+[Caso exista um requisito bônus inserir aqui na mesma estrutura]
+
+-- 
 
 ### DURANTE O DESENVOLVIMENTO
 
