@@ -18,7 +18,7 @@ n + n. - [**Intenção do requisito**]
 
 ---
 
-Todo aluno deve fazer uma _Pull Request_ para o repositório do modelo deste projeto _(onde está o guia para a entrega do projeto)_.
+Todo estudante deve fazer uma _Pull Request_ para o repositório do modelo deste projeto _(onde está o guia para a entrega do projeto)_.
 
 * [https://github.com/tryber/sd-0x-blockx-project-name](https://github.com/tryber/sd-0x-blockx-project-name)
 
