@@ -35,7 +35,7 @@ Você deve usar uma técnica de avaliação em duas escalas, explicada abaixo:
 
 3. Realizou as expectativas.
 
-Você deve avaliar o aluno para cada um dos itens obrigatórios e de bônus da especificação em relação às seguintes regras.
+Você deve avaliar o estudante para cada um dos itens obrigatórios e de bônus da especificação em relação às seguintes regras.
 
 ---
 
