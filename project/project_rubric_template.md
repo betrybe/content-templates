@@ -123,7 +123,7 @@ O mapeamento de requisitos do projeto atual para as habilidades deste projeto es
 
 Procure na unidade compartilhada "LEARNING" uma pasta. Dentro dela, você encontrará uma pasta para o grupo específico que está avaliando. Dentro desta pasta deve haver uma pasta `* Estudantes`. Deve haver uma pasta para cada aluno e dentro dela uma planilha para as avaliações semanais.
 
-Para cada aluno, você deve preencher sua avaliação na planilha dentro da pasta do aluno. Todo projeto semanal deve ter uma aba diferente na planilha.
+Para cada estudante, você deve preencher sua avaliação na planilha dentro da pasta do estudante. Todo projeto semanal deve ter uma aba diferente na planilha.
 
 Se ainda não houver uma guia para sua avaliação, crie uma seguindo os modelos anteriores. A diretriz geral é:
   * Todos os recursos da semana devem estar presentes;
