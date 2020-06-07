@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para ser entregue individualmente.
 
 ---
 
-### O aluno deve criar uma [intenção do projeto] de maneira a cumprir os seguintes requisitos.
+### O estudante deve criar uma [intenção do projeto] de maneira a cumprir os seguintes requisitos.
 
 n. - [**Intenção do requisito**]
 
