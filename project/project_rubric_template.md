@@ -83,7 +83,7 @@ Abaixo estão listados os requisitos para o projeto e como eles devem ser avalia
 
 ## Habilidades (ou seja, capacidades) consideradas para block X:
 
-Abaixo estão as habilidades que concordamos em ensinar ao aluno na block X. Usaremos essas habilidades para vincular o conhecimento adquirido durante a semana aos requisitos do projeto.
+Abaixo estão as habilidades que concordamos em ensinar ao estudante na block X. Usaremos essas habilidades para vincular o conhecimento adquirido durante a semana aos requisitos do projeto.
 
 ### _Obs(1): Se alguma habilidade não puder ser mapeada para um requisito do projeto, infelizmente você terá que deixá-la sem avaliação._
 
