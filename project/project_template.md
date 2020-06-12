@@ -1,9 +1,8 @@
 # Boas vindas ao repositório do projeto de [PROJECT NAME]!
 
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Tenha atenção a cada passo, e se tiver qualquer dúvida, nos envie por Slack! #vqv 🚀
+Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
 
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma _branch_ específica e um _Pull Request_ para colocar seus códigos.
-
+Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
 
 ---
 
@@ -60,6 +59,12 @@ Para entregar o seu projeto você deverá criar um Pull Request neste repositór
 
 Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a monitoria. Lembre-se que você pode consultar nosso conteúdo sobre Git & GitHub sempre que quiser!
 
+## ⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️ [Caso haja uma regra do tipo colocar especifique a desta forma]
+
+Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a monitoria.
+
+Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://course.betrybe.com/intro/git/) sempre que precisar!
+
 ---
 
 ### Data de Entrega
@@ -67,33 +72,81 @@ Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, pr
 O projeto tem até a seguinte data: `DD/MM/YYYY - 14:00h`. Para ser entregue a avaliação final.
 
 
-## Oque deverá ser desenvolvido
-
-Você vai ... [Descricão | Overview do que sera feito no projeto]
-
-## Desenvolvimento
-
-[Caso necessario introdução de por onde estudante deve começar]
-
 ## Requisitos do projeto
 
-### n - [Requisito]
-        [**Descrição do que deve feito ou pontos importantes de foco**]
+### 💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar à todos!
 
-### n + 1 - [Requisito]
-            [**Descrição do que deve feito ou pontos importantes de foco**]
+![exemplo do resultado](./resultadoFinal.gif)
 
-### n + 2 - [Requisito]
-            [**Descrição do que deve feito ou pontos importantes de foco**]
+## ⚠️ Leia-os atentamente e siga à risca o que for pedido. Em particular, **atente-se para os nomes de _ids_ que alguns elementos de seu projeto devem possuir**. ⚠️
 
-### n + n - [Requisito]
-            [**Descrição do que deve feito ou pontos importantes de foco**]
+O não cumprimento de um requisito, total ou parcialmente, impactará em sua avaliação.
 
-## Bônus
-[Caso exista um requisito bônus inserir aqui na mesma estrutura]
+---
 
--- 
+### 👀Observações importantes:
 
+  * [Caso necessario introdução de por onde estudante deve começar]
+
+  * [Ou pontos de atenção sobre possiveis erros comuns ao tentar desenvolver] 
+
+  * [Especifiques aqui desta forma]
+
+## Requisitos Obrigatórios:
+
+* Você vai ... [Descricão | Overview do que sera feito no projeto]
+
+ **Em outras palavras, uma [aplicaçao de montar foguetes do Elon Musk].** 😜
+
+### n - [Descrição do Requisito]
+
+##### As seguintes verificações serão feitas:
+- [**Pontos a serem validados neste requisito**]
+
+- [**Pontos a serem validados neste requisito**]
+
+- [**Pontos a serem validados neste requisito**]
+
+### n + 1 - [Descrição do Requisito]
+
+##### As seguintes verificações serão feitas:
+- [**Pontos a serem validados neste requisito**]
+
+- [**Pontos a serem validados neste requisito**]
+
+- [**Pontos a serem validados neste requisito**]
+
+### n + n - [Descrição do Requisito]
+
+##### As seguintes verificações serão feitas:
+- [**Pontos a serem validados neste requisito**]
+
+- [**Pontos a serem validados neste requisito**]
+
+- [**Pontos a serem validados neste requisito**]
+
+## Requisitos Bônus:
+
+### n - [Descrição do Requisito]
+
+##### As seguintes verificações serão feitas:
+- [**Pontos a serem validados neste requisito**]
+
+- [**Pontos a serem validados neste requisito**]
+
+- [**Pontos a serem validados neste requisito**]
+
+---
+
+## Dicas
+
+- [Caso haja alguma dica de desenvolvimento]
+
+- [Ou pontos para o estudante dar uma revisada para realizar este projeto]
+
+- [Coloque os aqui]
+
+---
 ### DURANTE O DESENVOLVIMENTO
 
 * Faça `commits` das alterações que você fizer no código regularmente
@@ -111,21 +164,23 @@ Você vai ... [Descricão | Overview do que sera feito no projeto]
 
 ### DEPOIS DE TERMINAR O DESENVOLVIMENTO
 
-Para **"entregar"** seu projeto, siga os passos a seguir:
+Para sinalizar que o seu projeto está pronto para o _"Code Review"_ dos seus colegas, faça o seguinte:
 
-* Vá até a página **DO SEU** _Pull Request_, adicione a label de _"code-review"_ e marque seus colegas
-  * No menu à direita, clique no _link_ **"Labels"** e escolha a _label_ **code-review**
-  * No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**
-  * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`
+* Vá até a página **DO SEU** _Pull Request_, adicione a label de _"code-review"_ e marque seus colegas:
 
-Se ainda houver alguma dúvida sobre como entregar seu projeto, [aqui tem um video explicativo](https://vimeo.com/362189205).
+  * No menu à direita, clique no _link_ **"Labels"** e escolha a _label_ **code-review**;
+
+  * No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
+
+  * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+
+Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
+
 
 ---
 
 ### REVISANDO UM PULL REQUEST
 
-⚠⚠⚠
+Use o conteúdo sobre [Code Review](https://course.betrybe.com/real-life-engineer/code-review/) para te ajudar a revisar os _Pull Requests_.
 
-À medida que você e as outras pessoas que estudam na Trybe forem entregando os projetos, vocês receberão um alerta **via Slack** para também fazer a revisão dos _Pull Requests_ dos seus colegas. Atentem-se às mensagens do _"Pull Reminders"_ no _Slack_!
-
-Use o material que você já viu sobre [Code Review](https://course.betrybe.com/real-life-engineer/code-review/) para te ajudar a revisar os projetos que chegaram para você.
+#VQV 🚀
