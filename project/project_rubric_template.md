@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para ser entregue individualmente.
 
 ---
 
-### O aluno deve criar uma [intenção do projeto] de maneira a cumprir os seguintes requisitos.
+### O estudante deve criar uma [intenção do projeto] de maneira a cumprir os seguintes requisitos.
 
 n. - [**Intenção do requisito**]
 
@@ -18,7 +18,7 @@ n + n. - [**Intenção do requisito**]
 
 ---
 
-Todo aluno deve fazer uma _Pull Request_ para o repositório do modelo deste projeto _(onde está o guia para a entrega do projeto)_.
+Todo estudante deve fazer uma _Pull Request_ para o repositório do modelo deste projeto _(onde está o guia para a entrega do projeto)_.
 
 * [https://github.com/tryber/sd-0x-blockx-project-name](https://github.com/tryber/sd-0x-blockx-project-name)
 
@@ -35,7 +35,7 @@ Você deve usar uma técnica de avaliação em duas escalas, explicada abaixo:
 
 3. Realizou as expectativas.
 
-Você deve avaliar o aluno para cada um dos itens obrigatórios e de bônus da especificação em relação às seguintes regras.
+Você deve avaliar o estudante para cada um dos itens obrigatórios e de bônus da especificação em relação às seguintes regras.
 
 ---
 
@@ -83,7 +83,7 @@ Abaixo estão listados os requisitos para o projeto e como eles devem ser avalia
 
 ## Habilidades (ou seja, capacidades) consideradas para block X:
 
-Abaixo estão as habilidades que concordamos em ensinar ao aluno na block X. Usaremos essas habilidades para vincular o conhecimento adquirido durante a semana aos requisitos do projeto.
+Abaixo estão as habilidades que concordamos em ensinar ao estudante na block X. Usaremos essas habilidades para vincular o conhecimento adquirido durante a semana aos requisitos do projeto.
 
 ### _Obs(1): Se alguma habilidade não puder ser mapeada para um requisito do projeto, infelizmente você terá que deixá-la sem avaliação._
 
@@ -121,9 +121,9 @@ O mapeamento de requisitos do projeto atual para as habilidades deste projeto es
 
 ## Formulários de avaliação
 
-Procure na unidade compartilhada "LEARNING" uma pasta. Dentro dela, você encontrará uma pasta para o grupo específico que está avaliando. Dentro desta pasta deve haver uma pasta `* Estudantes`. Deve haver uma pasta para cada aluno e dentro dela uma planilha para as avaliações semanais.
+Procure na unidade compartilhada "LEARNING" uma pasta. Dentro dela, você encontrará uma pasta para o grupo específico que está avaliando. Dentro desta pasta deve haver uma pasta `* Estudantes`. Deve haver uma pasta para cada estudante e dentro dela uma planilha para as avaliações semanais.
 
-Para cada aluno, você deve preencher sua avaliação na planilha dentro da pasta do aluno. Todo projeto semanal deve ter uma aba diferente na planilha.
+Para cada estudante, você deve preencher sua avaliação na planilha dentro da pasta do estudante. Todo projeto semanal deve ter uma aba diferente na planilha.
 
 Se ainda não houver uma guia para sua avaliação, crie uma seguindo os modelos anteriores. A diretriz geral é:
   * Todos os recursos da semana devem estar presentes;
